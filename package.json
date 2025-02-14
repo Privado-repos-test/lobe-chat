@@ -10,7 +10,7 @@
     "vercel-ai",
     "openai",
     "azure-openai",
-    "visual-model",
+    "visual-model", 
     "tts",
     "stt"
   ],
